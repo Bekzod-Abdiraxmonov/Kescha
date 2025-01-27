@@ -5,3 +5,6 @@ int keschasAge = 5;
 System.Console.Write("Yoshingizni kiriting:");
 int usersAge = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine($"Demak {name}ning yoshi keschanikidan {usersAge - keschasAge} yoshga farq qiladi");
+// System.Console.WriteLine(sizeof(char));
+// char smallA = 'a';
+// System.Console.WriteLine((int)smallA);
